@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ThunderScout</string>
+
+    <string name="app_version">2016v2-Alpha</string> <!--TODO This is where we track the version -->
+
+    <string name="build_variant"></string> <!--Nothing will show-->
+
+    <string-array name="defenses_array">
+        <item>None</item>
+        <item>Low Bar</item>
+        <item>Portcullis</item>
+        <item>Chival de Frise</item>
+        <item>Moat</item>
+        <item>Ramparts</item>
+        <item>Drawbridge</item>
+        <item>Sallyport</item>
+        <item>Rock Wall</item>
+        <item>Rough Terrain</item>
+    </string-array>
+
+    <string-array name="scaling_stats_array">
+        <item>None</item>
+        <item>Partial</item>
+        <item>Full</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="shortcut_match_scout_short">Match scout</string>
+    <string name="shortcut_match_scout_long">Scout a match</string>
+</resources>
