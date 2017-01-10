@@ -47,7 +47,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener, Swip
         MainActivity activity = (MainActivity) getActivity();
 
         Toolbar toolbar = (Toolbar) view.findViewById(R.id.toolbar);
-        toolbar.setTitle("ThunderScout");
+        toolbar.setTitle("GrizzlyScout");
         activity.setSupportActionBar(toolbar);
 
         setHasOptionsMenu(true);
